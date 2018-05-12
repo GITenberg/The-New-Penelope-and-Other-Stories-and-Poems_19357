@@ -14,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Frances_Fuller_Victor
 description: An anthology of Victor's short stories on West Coast life, plus selections
   of her poetry.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19357#The-New-Penelope-and-Other-Stories-and-Poems
 gutenberg_issued: '2006-09-22'
 gutenberg_type: Text
 identifiers:
