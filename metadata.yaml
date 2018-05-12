@@ -1,0 +1,31 @@
+_repo: The-New-Penelope-and-Other-Stories-and-Poems_19357
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Victor, Frances Fuller
+    alias: Fuller, Frances A.
+    birthdate: 1826
+    deathdate: 1902
+    gutenberg_agent_id: '8614'
+    url: http://www.gutenberg.org/2009/agents/8614
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Fuller_Victor
+description: An anthology of Victor's short stories on West Coast life, plus selections
+  of her poetry.
+gutenberg_issued: '2006-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19357'
+  lccn: '31019156'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pacific Coast (U.S.) -- Social life and customs'
+- !lcsh 'Northwest Coast of North America -- Social life and customs'
+- !lcc 'PS'
+title: The New Penelope, and Other Stories and Poems
+url: http://www.gutenberg.org/ebooks/19357
